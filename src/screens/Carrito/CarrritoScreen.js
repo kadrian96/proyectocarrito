@@ -21,7 +21,7 @@ const CarritoScreen = ({route}) => {
     <View >
      
     
-      <Text >Mira tus compras</Text>
+      <Text >Mira tus compras!</Text>
       {/* {products.map((producto,i) => (
         
         <ListItem 
